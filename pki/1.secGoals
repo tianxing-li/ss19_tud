@@ -1,0 +1,26 @@
+Security Goals
+1. Confidentiality
+    Def.: The practice of keeping secrets, maintaining privacy, or concealing valuables.
+    	exp.: genetic test
+2. Integrity
+	Def.: the integrity of the data is the face that the data has not been modified.
+		exp.: 
+		DB integrity: prevention of unauthorized changes, detection of modifications
+		Software evaluation
+3. Entity Authentication
+	Def.: the process by which one entity(verifier) is assured of the identity of a second entity(the claimant) that is participating in a protocol.
+		exp.: accounts&pw, online banking, online shopping, system login, 
+4. Data Authenticity
+	Def.: the ability to determine the origin of the data. includes integrity.
+		exp.: online banking(phishing site), software update
+5. Non-Repudiation (Verbindlichkeit)
+	Def.: reduce the ability of a party to repudiate an electronic transaction
+		exp.: contract, tax declaration
+6. Availability
+	Def.: the property that legitimate principals are able to access a service within a timely manner whenever they may need to do so
+		exp.: dos
+7. Anonymity, Datedness, Untraceability, Unlinkability
+	Anonymity Def.: the concept of being indistinguishable from others who perform the same or similar actions as oneself.
+		exp.: alcoholics anonymous
+	Datedness Def.: Marked with or displaying a date (old-fashioned; out-of-date)
+		exp.: document submission(annual report, patent registration)
