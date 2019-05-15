@@ -3,7 +3,7 @@ the first pass is a quick scan to get a bird's eye view of the paper.
 can decide whether need to do any more passes.
 take 5 to 10 minutes, consists of:
 ## a. carefully read the title, abstract, and intro
-## b. read the section and asub section headings, but ignore everything else.
+## b. read the section and sub-section headings, but ignore everything else.
 ## c. read the conclusions
 ## d. glance over the references, mentally ricking off the ones you've already read
 
